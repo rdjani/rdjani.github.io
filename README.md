@@ -2,8 +2,8 @@
 
 You will find links to various projects and assignments through this site.
 
-# My Picture
+### My Picture
 ![My Picture](_SMH1432.jpg)
 
-# MatPlotLib Graphing
+### MatPlotLib Graphing
 - [Graphing Assignments](/graphingassignments/index.md)
