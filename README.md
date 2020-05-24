@@ -3,7 +3,7 @@
 You will find links to various projects and assignments through this site.
 
 ### My Picture
-![My Picture](/pics/_SMH1432.jpg)
+<img src="/pics/_SMH1432.jpg" style="display: block; margin: auto;" />
 
 ### MatPlotLib Graphing
 - [Graphing Assignments](/graphingassignments/index.md)
